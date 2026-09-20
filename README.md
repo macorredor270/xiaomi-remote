@@ -1,6 +1,9 @@
 <p align="center">
-  <b>XiaomiRemote</b><br>
-  Convierte tu iPhone en el mando de tu TV Xiaomi / Android TV — sin nube, sin cuenta Mi Home,
+  <img src="docs/banner.svg" alt="XiaomiRemote: convierte tu iPhone en el mando de tu TV. Sin nube, sin cuenta Mi Home." width="100%">
+</p>
+
+<p align="center">
+  <b>Convierte tu iPhone en el mando de tu TV Xiaomi / Android TV</b> — sin nube, sin cuenta Mi Home,
   sin servidor de por medio.
 </p>
 

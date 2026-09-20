@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="t d">
+  <title id="t">XiaomiRemote</title>
+  <desc id="d">Convierte tu iPhone en el mando de tu TV. Sin nube, sin cuenta Mi Home.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f14"/><stop offset="0.55" stop-color="#0d1620"/><stop offset="1" stop-color="#0f1e2c"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00d4ff"/><stop offset="1" stop-color="#5b8cff"/></linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#cdefff"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#00d4ff" stop-opacity="0.22"/><stop offset="1" stop-color="#00d4ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+  <ellipse cx="930" cy="170" rx="320" ry="200" fill="url(#glow)"/>
+
+  <!-- TV con las ondas del protocolo -->
+  <g transform="translate(760,90)">
+    <rect x="0" y="0" width="220" height="140" rx="14" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.85"/>
+    <rect x="16" y="16" width="188" height="108" rx="4" fill="#00d4ff" opacity="0.06"/>
+    <rect x="90" y="146" width="40" height="10" rx="4" fill="url(#accent)" opacity="0.6"/>
+    <rect x="60" y="160" width="100" height="8" rx="4" fill="url(#accent)" opacity="0.35"/>
+    <circle cx="110" cy="70" r="14" fill="none" stroke="url(#accent)" stroke-width="2.5" opacity="0.9"/>
+    <circle cx="110" cy="70" r="34" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.55"/>
+    <circle cx="110" cy="70" r="54" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.3"/>
+  </g>
+
+  <!-- Icono de mando esquemático -->
+  <g transform="translate(1010,150)">
+    <rect x="-26" y="-70" width="52" height="130" rx="18" fill="none" stroke="url(#accent)" stroke-width="2.5" opacity="0.75"/>
+    <circle cx="0" cy="-40" r="9" fill="url(#accent)" opacity="0.85"/>
+    <circle cx="0" cy="-8" r="12" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.7"/>
+    <rect x="-10" y="20" width="20" height="8" rx="4" fill="url(#accent)" opacity="0.6"/>
+    <rect x="-10" y="34" width="20" height="8" rx="4" fill="url(#accent)" opacity="0.5"/>
+  </g>
+
+  <text x="62" y="140" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-2" fill="url(#title)">XiaomiRemote</text>
+  <text x="66" y="186" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="500" fill="#b9d9e6">Tu iPhone como mando de la TV. Sin nube, sin cuenta Mi Home.</text>
+
+  <rect x="64" y="230" width="176" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.22"/><text x="152.0" y="252" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#e6f6ff">Android TV Remote v2</text>
+  <rect x="252" y="230" width="63" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.22"/><text x="283.5" y="252" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#e6f6ff">Swift</text>
+  <rect x="327" y="230" width="100" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.22"/><text x="377.0" y="252" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#e6f6ff">sin nube</text>
+</svg>
